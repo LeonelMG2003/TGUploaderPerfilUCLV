@@ -9,7 +9,7 @@ PASSWORD = 'tele123#'
 USUARIO_ID = 248608
 ZIP_MB = 350
 MOODLE_URL = 'moodle.uclv.edu.cu'
-OWNER = [LeonelMG]
+OWNER = [1088031964]
 
 # CUENTA DE MEGA
 GMAIL_MEGA = 'leonelmolinaglez@gmail.com'
